@@ -1,0 +1,95 @@
+/* CSS Document */
+
+
+body {
+	height: 125vh;
+	background-size: cover;
+	background-image: url("../images/nyc_aerial.jpg");
+	background-repeat: no-repeat;
+	font-family:'Century Gothic', CenturyGothic, Arial, sans-serif;
+	margin-top:80px;
+	padding: 30px 30px 30px 0px;
+	margin-left:40px;
+	color: white;
+	border: white;
+	text-decoration: none;
+}
+
+button {
+	background: #EC2127;
+	font-family:'Century Gothic', CenturyGothic, Arial, sans-serif, bold;
+	text-transform: uppercase;
+	padding: 10px;
+	border-color:black;
+	border-width: 1px;
+	display: inline-block;
+	align-content: center;
+	margin: 20px 20px 20px 0px;
+}
+
+
+body img[type=example] {
+	height: 300px;
+	display:block;
+	padding: 20px 20px 20px 0px;
+}
+
+.landing{	
+	position: relative;
+ 	width: 100%;
+	height: auto;
+}
+
+header img {
+	height: 50px;
+	padding: 20px;
+	margin-left: 40px;
+}
+
+header {
+	background-color: white;
+	position: fixed;
+	height: 90px;
+	top: 0;
+	left: 0;
+	right: 0;
+	display: flex;
+	align-items: center;
+	box-shadow: 0 0 25px 0 black;
+}
+
+header li {
+	margin: 20px;
+}
+
+a {
+	color: white;
+}
+
+nav * {
+	color: #EC2127;
+	font-family:'Century Gothic', CenturyGothic, Arial, sans-serif, bold;
+	display: inline;
+	text-decoration: none;
+}
+
+
+.current {
+	text-transform: uppercase;
+}
+
+footer *{
+	background-color: white;
+	color:#EC2127;
+	height: 90px;
+	right: 0;
+  	bottom: 0;
+  	left: 0;
+}
+
+footer p {
+	display: flex;
+	align-items: center;
+}
+
+
