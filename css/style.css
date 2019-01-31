@@ -73,6 +73,9 @@ nav * {
 	text-decoration: none;
 }
 
+.skip-main {
+	display: inline-block;
+}
 
 .current {
 	text-transform: uppercase;
