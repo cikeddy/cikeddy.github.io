@@ -60,8 +60,8 @@ a {
 
 nav * {
 	color: #EC2127;
+	margin-top: 200px;
 	font-family:'Century Gothic', CenturyGothic, Arial, sans-serif, bold;
-	display: inline;
 	text-decoration: none;
 }
 
