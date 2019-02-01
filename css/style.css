@@ -1,16 +1,20 @@
 /* CSS Document */
 
 
-body {
-	height: 125vh;
+main {
+	margin-top:350px;
 	background-color: #1E0303;
 	font-family:'Century Gothic', CenturyGothic, Arial, sans-serif;
-	margin-top:80px;
 	padding: 30px 30px 30px 0px;
 	margin-left:40px;
 	color: white;
 	border: white;
 	text-decoration: none;
+}
+
+body {
+	background-color: #1E0303;
+	font-family:'Century Gothic', CenturyGothic, Arial, sans-serif;
 }
 
 button {
@@ -28,7 +32,6 @@ button {
 
 .banner{	
 	position: relative;
- 	width: 100%;
 	height: auto;
 }
 
@@ -41,7 +44,7 @@ header img {
 header {
 	background-color: #1E0303;
 	position: fixed;
-	height: 90px;
+	height: 300px;
 	top: 0;
 	left: 0;
 	right: 0;
@@ -60,7 +63,7 @@ a {
 
 nav * {
 	color: #EC2127;
-	margin-top: 200px;
+	margin-top: 20px;
 	font-family:'Century Gothic', CenturyGothic, Arial, sans-serif, bold;
 	text-decoration: none;
 }
