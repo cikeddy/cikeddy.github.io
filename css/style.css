@@ -3,9 +3,7 @@
 
 body {
 	height: 125vh;
-	background-size: cover;
-	background-image: url("../images/nyc_aerial.jpg");
-	background-repeat: no-repeat;
+	background-color: #1E0303;
 	font-family:'Century Gothic', CenturyGothic, Arial, sans-serif;
 	margin-top:80px;
 	padding: 30px 30px 30px 0px;
