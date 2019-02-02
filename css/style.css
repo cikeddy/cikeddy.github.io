@@ -30,9 +30,8 @@ button {
 }
 
 
-.banner{	
-	position: relative;
-	height: auto;
+.banner {	
+	max-width: 99%;
 }
 
 header img {
@@ -41,6 +40,8 @@ header img {
 	margin-left: 40px;
 }
 
+
+/*header code adapted from https://codetheweb.blog/2017/12/12/style-a-navigation-bar-css/*/
 header {
 	background-color: #1E0303;
 	position: fixed;
